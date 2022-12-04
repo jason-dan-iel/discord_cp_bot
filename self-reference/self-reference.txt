@@ -1,0 +1,16 @@
+dependencies to have mac //refer https://dpp.dev/index.html for all
+for mac :-
+    brew install cmake
+    brew install openssl
+    brew install libsodium opus pkg-config
+        link openssl:
+            brew upgrade openssl
+            brew link --force openssl
+            pkg-config --modversion openssl
+
+final building process
+    1. cmake -B ./build
+    2. cmake --build ./build -j8
+    3. cd build; sudo make install
+    4. clang++ -std=c++17 -o bot ./src/source.cpp -ldpp
+    5. ./bot
