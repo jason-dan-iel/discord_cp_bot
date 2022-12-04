@@ -1,1 +1,4 @@
 self-reference
+.vscode
+bot
+.build
