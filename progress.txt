@@ -1,0 +1,5 @@
+#Progress so far
+
+Monday 5 Dec 2022 :-
+Created a test bot and got idea on how d++ works
+Goals have to explore to more till Dec 8 atleast before making a final bot
