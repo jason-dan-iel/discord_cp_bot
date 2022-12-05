@@ -1,6 +1,6 @@
 #include <dpp/dpp.h>
 
-const std::string BOT_TOKEN = "MTA0ODk4NTYzMDg1MzU2NjUzNA.G5Z8UN.FyNbETFehlBjuMnC7jQetz0OAHnbbbm_psqA8A";
+const std::string BOT_TOKEN = "token";
 
 
 
