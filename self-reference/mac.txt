@@ -14,3 +14,9 @@ final building process
     3. cd build; sudo make install
     4. clang++ -std=c++17 -o bot ./src/source.cpp -ldpp
     5. ./bot
+Alt build process
+    just execute the .sh file in the first place lol
+    y didn't I think of that earlier
+
+discord invite link format:
+    https://discord.com/oauth2/authorize?client_id=1048985630853566534&scope=bot+applications.commands&permissions=18432
