@@ -1,0 +1,10 @@
+#Progress so far
+
+Monday 5 Dec 2022 :-
+    Created a test bot and got idea on how d++ works
+    Goals have to explore to more till Dec 8 atleast before making a final bot
+
+Monday 5 December EOD:-
+    Learnt to make embed links and the necessary steps
+    created a .sh file for easier execution
+
